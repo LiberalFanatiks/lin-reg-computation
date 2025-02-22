@@ -44,8 +44,8 @@ python main.py
     - y=[3,4,6,5]
         (notes obtenues)
 - Sortie :
-    Un graphique avec les points de données et la droite de régression.
-    Coefficients calculés affichés (ex. : a=0.5; b=2.5 r=0.8).
+    - Un graphique avec les points de données et la droite de régression. 
+    - Coefficients calculés affichés (ex. : a=0.5; b=2.5 r=0.8).
 
 ## Structure du code
 
