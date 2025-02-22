@@ -59,8 +59,7 @@ Chaque fonction est documentée avec des docstrings au format Google.
 
 ## Exemple de résultat
 Graphique de régression linéaire
-(Ajoutez une capture d’écran du graphique ici en exécutant le code et en l’uploadant dans le dépôt.)
-
+![Graphique de régression linéaire](https://raw.githubusercontent.com/LiberalFanatiks/lin-reg-computation/refs/heads/main/graphique.png)
 
 ### Améliorations possibles
 
@@ -71,4 +70,5 @@ Graphique de régression linéaire
 ## Auteur
 
 [LiberalFanatiks aka @AvicenienRazien]
-Contact : [biczosam.2024@gmail.com, @AvicenienRazien]
+
+Contact : [biczosam.2024@gmail.com]
